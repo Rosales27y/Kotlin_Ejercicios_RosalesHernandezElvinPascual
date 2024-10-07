@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a460149-9fdc-43c3-9f97-ec3e046382ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin_Ejercicios_RosalesHernadezElvinPascual.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/031-SumarElemetosArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/032-NumeroMasGrandeDeArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/033-RevertirCadena.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/034-ContarVocales.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/035-ConcatenarCadenas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/036-EliminarEspaciosBlancos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/037-Palindromo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/038-NumerosRepetidos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/039-Mayusculas_a_Minusculas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos_Y_Cadenas/040-PromedioElementosArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/021-ImprimirNumerosDe_1_a_100.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/022-SumaLosPrimerosNumerosN.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/023-TablaMultiplicar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/024-NumerosParesHastaN.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/025-Factorial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/026-SumarDigitos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/027-ConteoDigitos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/028-NumerosPrimos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/029-MultiplosDe_5Entre1_y_N.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/030-InvertirNumero.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/ddd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/011-MayorDeDosNumeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/012-PositivoNegativoOCero.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/013-CalculadoraBasica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/014-EdadParaVotar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/015-AñosBisiestos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/016-Calificacion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/017-DescuentoTienda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/018-MultiplicasionSinMultiplicar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/019-OrdenarNumeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicionales/020-CondiciaonalAnidado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/001-Suma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/002-Conversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/003-AreaCirculo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/004-IntercambiarVariables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/005-PromedioTresNumeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/006-StringAInt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/007-DobelyMitad.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/008-ConversionMetrosAKilometros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/009-NumeroParOImpar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables_Y_Tipos/010-DiaSemana.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n5sk2IP1MtCuIet8HHIFHcFR6f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin._001_SumaKt.executor": "Run",
+    "Kotlin._038_NumerosRepetidosDeArrayKt.executor": "Run",
+    "Kotlin._038_NumerosRepetidosKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Elvin Rosales/My project/.idea/.idea.My project/Kotlin_Ejercicios_RosalesHernadezElvinPascual/src",
+    "onboarding.tips.debug.path": "C:/Users/Elvin Rosales/My project/.idea/.idea.My project/Kotlin_Ejercicios_RosalesHernadezElvinPascual/src/Main.kt"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elvin Rosales\My project\.idea\.idea.My project\Kotlin_Ejercicios_RosalesHernadezElvinPascual\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a460149-9fdc-43c3-9f97-ec3e046382ac" name="Changes" comment="" />
+      <created>1728274412052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728274412052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
